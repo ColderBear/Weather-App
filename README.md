@@ -1,5 +1,6 @@
 # Weather-App
 Weather App using HTML CSS and Javascript
+
 Welcome to the Weather App Project !!
 
 Here is the summary of my project:
